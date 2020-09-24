@@ -1,0 +1,23 @@
+/* pages/ShopList/index.wxss */
+
+.tubian{
+  margin-top: 10px;
+  width:100rpx;
+  height:100rpx;
+  vertical-align: middle;
+  float: left;
+}
+.boy{
+  
+  border:2rpx solid rgb(149, 214, 245);
+  vertical-align: middle;
+}
+.text{
+  margin-top: 10px;
+  float: left;
+  margin-left: 150px;
+}
+.shop{
+  align-items:center;
+  margin-top: 10px;
+}

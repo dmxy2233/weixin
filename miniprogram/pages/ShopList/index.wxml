@@ -1,0 +1,13 @@
+
+<view  wx:for="{{ShopList}}" class="shop">
+    <view class="boy">
+    <image class="tubian" src="{{item.img}}"></image>
+    <view class="text">
+        {{item.message}}
+    </view>
+    <view class="text">
+        价格：500￥
+    </view>
+    </view>
+   
+</view>
